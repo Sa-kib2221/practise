@@ -1,0 +1,66 @@
+
+body{
+
+    background-color: rgb(41, 3, 77);
+}
+
+#firstsec{
+
+    margin-top: 200px;
+}
+
+
+#firstdiv{
+     display: block;
+     width: 1700px;
+     margin: auto;
+     border: 1px;
+    
+}
+.videoone{
+            float: left;
+            margin-right: 10px;
+}
+.videotw{
+            float: left;
+            margin-right: 10px;
+}
+
+
+
+#markdv{
+
+
+            margin-bottom: 50px;
+         direction: left;
+          behavior: scroll;
+          font-size: 20px;
+          font-family: arial black;
+          color:bisque;
+
+}
+
+.markdvv, marquee{
+
+          margin-top:20px;
+          font-size: 20px;
+          font-family: arial black;
+          color:bisque;
+
+}
+.markdvvv, marquee{
+
+          margin-top:20px;
+          font-size: 20px;
+          font-family: arial black;
+          color:bisque;
+
+}
+.markdvvv, marquee{
+
+          margin-top:20px;
+          font-size: 20px;
+          font-family: arial black;
+          color:red;
+
+}

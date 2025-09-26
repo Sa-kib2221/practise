@@ -1,0 +1,277 @@
+
+body{
+     margin: 0px;
+     background-color: rgba(10, 2, 19, 0.993);
+}
+.head{
+       
+       background-color: rgba(6, 8, 15, 0.993);
+       
+       
+
+}
+
+.divx{
+
+    
+        width:1700px;
+        height: 80px;
+        margin: auto;
+}
+
+/* game zone er style */
+.spnone{
+         float: left;
+         font-size: 20px;
+         font-family: arial black;
+         color: red;
+         margin-top: 22px;
+
+}
+
+.divone{
+            text-align: center;
+}
+
+.divone, a {   position: relative;
+               margin-left: 60px;
+               font-size: 20px;
+               font-family: arial black;
+               color:red;
+               top: 10px;
+               text-decoration: none;
+}
+
+/* 1st section ke rap kore rakha */
+.rapsec{
+
+      
+      position: relative;
+      background-color: rgba(16, 5, 27, 0.993);
+
+}
+
+
+
+/* section one er kaj */
+.secone{
+              
+          
+            width:1700px;
+            height: 700px;
+            margin: auto;
+            margin-top: 22px;
+      
+
+}
+ /* prothom picture  div box er kaj*/
+.secdvone{
+
+      
+         width:400px;
+            height: 700px;
+            float: left;
+            margin-right: 250px;
+            border-radius: 8px;
+            box-shadow: 1px 1px 5px rgb(255, 0, 0);
+            
+            
+            
+
+}
+
+        
+.secdvtw, img {
+
+                 width: 100%;
+                height: 100%;
+                object-fit: cover;
+                 border-radius: 8px;
+              
+               
+} 
+
+.bttn{      
+          position: relative;
+          color: red;
+          top:-100px;
+         width: 300px;
+         left: 50px;
+         padding: 5px;
+         font-size: 16px;
+         border-radius: 10px;
+         border: none;
+         
+}
+
+/* 2nd picture div box er kaj */
+
+.secdvon{
+
+      
+         width:400px;
+            height: 700px;
+            float: left;
+             border-radius: 8px;
+            box-shadow: 1px 1px 5px rgb(255, 0, 0);
+            
+            
+            
+            
+            
+
+}
+
+        
+.secdvt, img {
+
+                 width: 100%;
+                height: 100%;
+                object-fit: cover;
+                   border-radius: 8px;
+              
+               
+} 
+
+.bttn{      
+          position: relative;
+          color: red;
+          top:-100px;
+         width: 300px;
+         left: 50px;
+         padding: 5px;
+         font-size: 16px;
+         border-radius: 10px;
+         border: none;
+         
+}
+
+/* 3rd picture div box er kaj */
+
+.secdvonn{
+
+       
+         width:400px;
+            height: 700px;
+            float: right;
+               border-radius: 8px;
+            box-shadow: 1px 1px 5px rgb(255, 0, 0);
+            
+            
+            
+            
+
+}
+
+        
+.secdvtt, img {
+
+                 width: 100%;
+                height: 100%;
+                object-fit: cover;
+                  border-radius: 8px;
+              
+               
+} 
+
+.bttn{      
+          position: relative;
+          color: red;
+          top:-100px;
+         width: 300px;
+         left: 50px;
+         padding: 5px;
+         font-size: 16px;
+         border-radius: 10px;
+         border: none;
+         
+}
+
+/* hover kora hoyeche */
+.bttn:hover{   
+             cursor: pointer;
+             background-color: red;
+             color:white;
+             font-size: 18;
+             font-weight: 800;
+
+}
+
+.sec{
+        
+    margin-top: 150px;
+    width:1700;
+    height: 1000px;
+   
+    
+
+}
+
+.codpic{
+
+         width:1000px;
+}
+h4{
+    width: 150px;
+    font-size: 20px;
+    color: white;
+    margin: auto;
+
+}
+
+.sec, p {
+           color:aliceblue;
+           text-align: center;
+}
+
+.codd{
+
+     float: right;
+}
+
+marquee{
+      margin-top: 20px;
+         direction: left;
+          behavior: scroll;
+          font-size: 20px;
+          font-family: arial black;
+}
+
+.mark{
+             color:red;
+}
+
+#nxt{
+
+           
+}
+
+#bttnnxt{
+            display: block;
+            width:400px;
+            border-radius: 8px;
+            border: none;
+            padding: 5px;
+           margin-top: 140px;
+           margin-bottom: 15px;
+           
+        
+
+
+}
+
+/* hover kora hoyeche */
+
+#bttnnxt:hover{
+                   cursor: pointer;
+             background-color: red;
+             color:white;
+             font-size: 18;
+             font-weight: 800;
+
+}
+
+.idddv{
+
+      float: right;
+}

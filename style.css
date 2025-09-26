@@ -1,0 +1,122 @@
+body{
+      /* background-color: #dcf2fa; */
+        background-image: linear-gradient(to right, rgba(183, 233, 243, 0.15), rgba(82, 119, 125, 0.23), rgba(29, 42, 45, 0.32));
+     
+}
+section{
+
+      border:1px solid #6a7a80;
+    
+      width:350px;
+      height: 600px;
+      margin: auto;
+      margin-top: 60px;
+      border-radius: 5px;
+      box-shadow: 1px 1px 5px #6a7a80;
+     
+
+      
+}
+
+marquee{ 
+           margin-top: 90px;
+         direction: left;
+          behavior: scroll;
+          font-size: 20px;
+          font-family: arial black;
+          color:#4c8fa6;
+
+
+
+}
+
+
+h1{
+      color: #4c8fa6;
+
+}
+
+a{
+      color:#4c8fa6;
+}
+
+
+
+.fstdv{
+
+          
+          width:350px;
+          height: 600px;
+         
+        
+
+}
+
+.scnddv{   
+           margin-top: 40px;
+            width:350px;
+            height: 100px;
+            text-align: center;
+            
+        
+ 
+}
+
+
+.thrddv{
+
+
+          width:350px;
+          height: 400px;
+          margin: auto;
+          margin-top: -40px;
+
+}
+
+.thrddv,input, button{
+                 
+                 
+                text-align: center;
+         
+        
+
+      }
+.int{
+      margin-top: 50px;
+
+}
+
+input{
+        width:250px;
+        padding: 8px;
+        border:1px solid #6a7a80;
+        border-radius: 20px;
+        outline: none;
+        margin-bottom:10px ;
+       box-shadow: 1px 1px 5px #6a7a80;
+        
+
+
+}
+
+.anm{
+
+      text-decoration: none;
+}
+
+button{
+
+      width:260px;
+      padding: 8px;
+        border-radius: 20px;
+        border:1px solid #6a7a80;
+         outline: none;
+          box-shadow: 1px 1px 5px #6a7a80;
+          background-color: #ffffff;
+          color: #757575;
+}
+
+button:hover{
+           cursor: pointer;
+}
+
